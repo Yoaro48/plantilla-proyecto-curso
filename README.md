@@ -2,10 +2,10 @@
 
 ## Miembros del grupo LX-XXX-X (sustituir)
 
-1. Apellidos, Nombre
-1. Apellidos, Nombre
-1. Apellidos, Nombre
-1. Apellidos, Nombre
+1. Domínguez Cantos, Álvaro
+1. Ávila Ordóñez, Curro
+1. Lopez Rueda, Manuel
+1. Delgado Gómez, Samuel
 
 ## 1. Introducción al problema
 
